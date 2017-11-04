@@ -11,7 +11,7 @@ spring:
     url: "jdbc:mysql://localhost:3306/dev"
     username: "karthik"
     #password: "pw"
-    passowrd: "{cipher} 6a97c04b4db090e4b0c6f49527ee4cbae1968392eb17da2fdca17088b54d587d"
+    passowrd: "{cipher}6a97c04b4db090e4b0c6f49527ee4cbae1968392eb17da2fdca17088b54d587d"
     tomcat:
       test-while-idle: true
       validation-query: "SELECT 1"
